@@ -1,0 +1,21 @@
+{
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "description": "A Advance Ticket System Made By tess ",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@joshdb/core": "^1.2.7",
+    "@joshdb/json": "^1.0.5",
+    "axios": "^1.4.0",
+    "discord-html-transcripts": "^3.1.4",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
